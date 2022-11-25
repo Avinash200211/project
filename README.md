@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://delightful-wave-08fd1ef00.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/aWenucvkR-c
 
 ## Azure technologies used for Project
 
